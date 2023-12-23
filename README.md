@@ -33,29 +33,25 @@
 
 ### Screenshots for user app :
 
-| Image 1 | Image 2 |
-|---------|---------|
-| [![SplashScreen](https://github.com/islammegdoude/magicpro/assets/78706966/53a26ed4-384d-40d3-a15d-6f0a7fbdb2dd)](https://github.com/islammegdoude/magicpro) | [![Login](https://github.com/islammegdoude/magicpro/assets/78706966/cc5b8fe1-ae8e-4680-8eb6-804d717b4286)](https://github.com/islammegdoude/magicpro) |
-| Image 3 | Image 4 |
-| [![SignUp](https://github.com/islammegdoude/magicpro/assets/78706966/5dc89413-f386-41f8-b2f4-793b4115eb1d)](https://github.com/islammegdoude/magicpro) | [![languages](https://github.com/islammegdoude/magicpro/assets/78706966/e12d8b36-829f-4072-b5ff-86b4c60439dc)](https://github.com/islammegdoude/magicpro) |
-| Image 5 | Image 6 |
-| [![selectBranch](https://github.com/islammegdoude/magicpro/assets/78706966/86a7c899-c00c-4c5c-9ceb-abae765ebfee)](https://github.com/islammegdoude/magicpro) | [![home](https://github.com/islammegdoude/magicpro/assets/78706966/28018e51-d010-49ba-a0a3-bf3156ab76e4)](https://github.com/islammegdoude/magicpro) |
-| Image 7 | Image 8 |
-| [![favorites](https://github.com/islammegdoude/magicpro/assets/78706966/d8397e07-03b8-4731-a7af-3b60c609cbea)](https://github.com/islammegdoude/magicpro) | [![addToCard](https://github.com/islammegdoude/magicpro/assets/78706966/cd9dc6bb-8fe2-4990-a86e-fa06fb580aef)](https://github.com/islammegdoude/magicpro) |
-| Image 9 | Image 10 |
-| [![cardScreen](https://github.com/islammegdoude/magicpro/assets/78706966/3996c2fa-298d-4318-887c-58c5905c75e4)](https://github.com/islammegdoude/magicpro) | [![checkout](https://github.com/islammegdoude/magicpro/assets/78706966/4b6964a3-9791-4038-8d19-74210d83ae07)](https://github.com/islammegdoude/magicpro) |
-| Image 11 | Image 12 |
-| [![orderHistory](https://github.com/islammegdoude/magicpro/assets/78706966/c511304b-c714-40e3-a10e-516fb65583dc)](https://github.com/islammegdoude/magicpro) | [![orderDetails](https://github.com/islammegdoude/magicpro/assets/78706966/10adbb6e-8dc8-4d94-9379-972b0f2bbdc0)](https://github.com/islammegdoude/magicpro) |
-| Image 13 | Image 14 |
-| [![menu](https://github.com/islammegdoude/magicpro/assets/78706966/d12717a7-2d6c-4538-b13d-8c6e74fac03a)](https://github.com/islammegdoude/magicpro) | [![profileScreen](https://github.com/islammegdoude/magicpro/assets/78706966/7ff89d93-eadf-4a93-8fea-76f893f132c7)](https://github.com/islammegdoude/magicpro) |
-| Image 15 | Image 16 |
-| [![costomerWallet](https://github.com/islammegdoude/magicpro/assets/78706966/7023ecf8-2e24-4474-a2da-618241de836b)](https://github.com/islammegdoude/magicpro) | [![loyaltyPoints](https://github.com/islammegdoude/magicpro/assets/78706966/7a7afc15-4542-4b74-a06b-d1042af298af)](https://github.com/islammegdoude/magicpro) |
-| Image 17 | Image 18 |
-| [![myAdreess](https://github.com/islammegdoude/magicpro/assets/78706966/98e48c4b-b66a-4333-9f54-f5869773b73b)](https://github.com/islammegdoude/magicpro) | [![addNewAdress](https://github.com/islammegdoude/magicpro/assets/78706966/04ace12d-10f0-4a28-a62d-1a54378e5040)](https://github.com/islammegdoude/magicpro) |
-| Image 19 | Image 20 |
-| [![NotificationScreen](https://github.com/islammegdoude/magicpro/assets/78706966/91a2e543-8f34-427f-b8e7-121b9e4f765c)](https://github.com/islammegdoude/magicpro) | [![msgSupport](https://github.com/islammegdoude/magicpro/assets/78706966/73ebf2db-98e2-484e-9d2a-82bb4f1da809)](https://github.com/islammegdoude/magicpro) |
-| Image 21 | Image 22 |
-| [![Search](https://github.com/islammegdoude/magicpro/assets/78706966/df93661c-1c08-458d-b1af-95518cddaef6)](https://github.com/islammegdoude/magicpro) | [![darkVersion](https://github.com/islammegdoude/magicpro/assets/78706966/78d7914f-4352-4e3d-b3c0-d99394394256)](https://github.com/islammegdoude/magicpro) |
+## More Screenshots
+
+| Image 1                                    | Image 2                                    | Image 3                                    |
+|--------------------------------------------|--------------------------------------------|--------------------------------------------|
+| **SplashScreen**                           | **Login**                                  | **SignUp**                                 |
+| [![SplashScreen](https://github.com/islammegdoude/magicpro/assets/78706966/53a26ed4-384d-40d3-a15d-6f0a7fbdb2dd)](https://github.com/islammegdoude/magicpro) | [![Login](https://github.com/islammegdoude/magicpro/assets/78706966/cc5b8fe1-ae8e-4680-8eb6-804d717b4286)](https://github.com/islammegdoude/magicpro) | [![SignUp](https://github.com/islammegdoude/magicpro/assets/78706966/5dc89413-f386-41f8-b2f4-793b4115eb1d)](https://github.com/islammegdoude/magicpro) |
+| **Languages**                              | **Select Branch**                          | **Home**                                   |
+| [![Languages](https://github.com/islammegdoude/magicpro/assets/78706966/e12d8b36-829f-4072-b5ff-86b4c60439dc)](https://github.com/islammegdoude/magicpro) | [![Select Branch](https://github.com/islammegdoude/magicpro/assets/78706966/86a7c899-c00c-4c5c-9ceb-abae765ebfee)](https://github.com/islammegdoude/magicpro) | [![Home](https://github.com/islammegdoude/magicpro/assets/78706966/28018e51-d010-49ba-a0a3-bf3156ab76e4)](https://github.com/islammegdoude/magicpro) |
+| **Favorites**                              | **Add To Card**                            | **Card Screen**                            |
+| [![Favorites](https://github.com/islammegdoude/magicpro/assets/78706966/d8397e07-03b8-4731-a7af-3b60c609cbea)](https://github.com/islammegdoude/magicpro) | [![Add To Card](https://github.com/islammegdoude/magicpro/assets/78706966/cd9dc6bb-8fe2-4990-a86e-fa06fb580aef)](https://github.com/islammegdoude/magicpro) | [![Card Screen](https://github.com/islammegdoude/magicpro/assets/78706966/3996c2fa-298d-4318-887c-58c5905c75e4)](https://github.com/islammegdoude/magicpro) |
+| **Checkout**                               | **Order History**                          | **Order Details**                          |
+| [![Checkout](https://github.com/islammegdoude/magicpro/assets/78706966/4b6964a3-9791-4038-8d19-74210d83ae07)](https://github.com/islammegdoude/magicpro) | [![Order History](https://github.com/islammegdoude/magicpro/assets/78706966/c511304b-c714-40e3-a10e-516fb65583dc)](https://github.com/islammegdoude/magicpro) | [![Order Details](https://github.com/islammegdoude/magicpro/assets/78706966/10adbb6e-8dc8-4d94-9379-972b0f2bbdc0)](https://github.com/islammegdoude/magicpro) |
+| **Menu**                                   | **Profile Screen**                         | **Customer Wallet**                         |
+| [![Menu](https://github.com/islammegdoude/magicpro/assets/78706966/d12717a7-2d6c-4538-b13d-8c6e74fac03a)](https://github.com/islammegdoude/magicpro) | [![Profile Screen](https://github.com/islammegdoude/magicpro/assets/78706966/7ff89d93-eadf-4a93-8fea-76f893f132c7)](https://github.com/islammegdoude/magicpro) | [![Customer Wallet](https://github.com/islammegdoude/magicpro/assets/78706966/7023ecf8-2e24-4474-a2da-618241de836b)](https://github.com/islammegdoude/magicpro) |
+| **Loyalty Points**                         | **My Address**                             | **Add New Address**                         |
+| [![Loyalty Points](https://github.com/islammegdoude/magicpro/assets/78706966/7a7afc15-4542-4b74-a06b-d1042af298af)](https://github.com/islammegdoude/magicpro) | [![My Address](https://github.com/islammegdoude/magicpro/assets/78706966/98e48c4b-b66a-4333-9f54-f5869773b73b)](https://github.com/islammegdoude/magicpro) | [![Add New Address](https://github.com/islammegdoude/magicpro/assets/78706966/04ace12d-10f0-4a28-a62d-1a54378e5040)](https://github.com/islammegdoude/magicpro) |
+| **Notification Screen**                    | **Message Support**                        | **Search**                                 |
+| [![Notification Screen](https://github.com/islammegdoude/magicpro/assets/78706966/91a2e543-8f34-427f-b8e7-121b9e4f765c)](https://github.com/islammegdoude/magicpro) | [![Message Support](https://github.com/islammegdoude/magicpro/assets/78706966/73ebf2db-98e2-484e-9d2a-82bb4f1da809)](https://github.com/islammegdoude/magicpro) | [![Search](https://github.com/islammegdoude/magicpro/assets/78706966/df93661c-1c08-458d-b1af
+
 
 
 
