@@ -31,9 +31,7 @@
 - Dark & Light theme for better user experience.
 - Multiple Payment Gateway (DAHABIA | CIB) use Chargily api
 
-### Screenshots for user app :
-
-## More Screenshots
+## Screenshots for user app :
 
 | Image 1                                    | Image 2                                    | Image 3                                    |
 |--------------------------------------------|--------------------------------------------|--------------------------------------------|
@@ -71,6 +69,18 @@
 - LTR & RTL supported
 - Dark & Light theme
 - Multiple languages (AR | FR | EN)
+
+## Screenshots for Driver app :
+
+| Image 1                                    | Image 2                                    | Image 3                                    |
+|--------------------------------------------|--------------------------------------------|--------------------------------------------|
+| **SplashScreen**                           | **LoginScreen**                            | **Choose Language**                        |
+| [![SplashScreen](https://github.com/islammegdoude/magicpro/assets/78706966/250962c9-2ffa-4098-84f9-d8d588d981dd)](https://github.com/islammegdoude/magicpro) | [![LoginScreen](https://github.com/islammegdoude/magicpro/assets/78706966/45d361e7-f6c7-4739-b1de-0dc72993cd71)](https://github.com/islammegdoude/magicpro) | [![Choose Language](https://github.com/islammegdoude/magicpro/assets/78706966/a8f704d1-7d7a-4562-bfa5-c1786d7de3f2)](https://github.com/islammegdoude/magicpro) |
+| **Home**                                   | **Order Details**                          | **Chat with Customer**                      |
+| [![Home](https://github.com/islammegdoude/magicpro/assets/78706966/909333a6-cfe9-4063-abb2-2fbfacaf6a90)](https://github.com/islammegdoude/magicpro) | [![Order Details](https://github.com/islammegdoude/magicpro/assets/78706966/1cedbcfe-968e-4fdd-bb97-642354fef08b)](https://github.com/islammegdoude/magicpro) | [![Chat with Customer](https://github.com/islammegdoude/magicpro/assets/78706966/e28402e1-421f-44c4-9e47-9b00e1d0160b)](https://github.com/islammegdoude/magicpro) |
+| **Orders History**                         | **Profile Screen**                         | **Dark Version**                            |
+| [![Orders History](https://github.com/islammegdoude/magicpro/assets/78706966/b659ec2a-e30c-4807-a3e2-890928cc24fa)](https://github.com/islammegdoude/magicpro) | [![Profile Screen](https://github.com/islammegdoude/magicpro/assets/78706966/102f21aa-39d4-4535-81eb-1d905ccad99f)](https://github.com/islammegdoude/magicpro) | [![Dark Version](https://github.com/islammegdoude/magicpro/assets/78706966/474c9747-708d-4130-babb-c02358548e81)](https://github.com/islammegdoude/magicpro) |
+
 
 ## Admin Dashboard Features
 
