@@ -1,3 +1,5 @@
+![design](https://github.com/islammegdoude/magicpro/assets/78706966/85a63e76-52bd-4645-876a-c95c08fc7caa)
+
 # Qudyan Restaurant Management System
 
 Qudyan is a comprehensive food delivery and restaurant management system designed to streamline your restaurant business operations. This repository contains the codebase for the user app, website, delivery man app, and a robust admin panel built using the Laravel Framework.
