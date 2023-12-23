@@ -50,7 +50,10 @@
 | **Loyalty Points**                         | **My Address**                             | **Add New Address**                         |
 | [![Loyalty Points](https://github.com/islammegdoude/magicpro/assets/78706966/7a7afc15-4542-4b74-a06b-d1042af298af)](https://github.com/islammegdoude/magicpro) | [![My Address](https://github.com/islammegdoude/magicpro/assets/78706966/98e48c4b-b66a-4333-9f54-f5869773b73b)](https://github.com/islammegdoude/magicpro) | [![Add New Address](https://github.com/islammegdoude/magicpro/assets/78706966/04ace12d-10f0-4a28-a62d-1a54378e5040)](https://github.com/islammegdoude/magicpro) |
 | **Notification Screen**                    | **Message Support**                        | **Search**                                 |
-| [![Notification Screen](https://github.com/islammegdoude/magicpro/assets/78706966/91a2e543-8f34-427f-b8e7-121b9e4f765c)](https://github.com/islammegdoude/magicpro) | [![Message Support](https://github.com/islammegdoude/magicpro/assets/78706966/73ebf2db-98e2-484e-9d2a-82bb4f1da809)](https://github.com/islammegdoude/magicpro) | [![Search](https://github.com/islammegdoude/magicpro/assets/78706966/df93661c-1c08-458d-b1af
+| [![Notification Screen](https://github.com/islammegdoude/magicpro/assets/78706966/91a2e543-8f34-427f-b8e7-121b9e4f765c)](https://github.com/islammegdoude/magicpro) | [![Message Support](https://github.com/islammegdoude/magicpro/assets/78706966/73ebf2db-98e2-484e-9d2a-82bb4f1da809)](https://github.com/islammegdoude/magicpro) | [![Search](https://github.com/islammegdoude/magicpro/assets/78706966/df93661c-1c08-458d-b1af-95518cddaef6)](https://github.com/islammegdoude/magicpro) |
+| **Dark Version**                           |                                            |                                            |
+| [![Dark Version](https://github.com/islammegdoude/magicpro/assets/78706966/78d7914f-4352-4e3d-b3c0-d99394394256)](https://github.com/islammegdoude/magicpro) |                                            |                                            |
+
 
 
 
