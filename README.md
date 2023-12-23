@@ -33,9 +33,9 @@
 
 ## Screenshots for user app :
 
-| Image 1                                    | Image 2                                    | Image 3                                    |
-|--------------------------------------------|--------------------------------------------|--------------------------------------------|
+
 | **SplashScreen**                           | **Login**                                  | **SignUp**                                 |
+|--------------------------------------------|--------------------------------------------|--------------------------------------------|
 | [![SplashScreen](https://github.com/islammegdoude/magicpro/assets/78706966/53a26ed4-384d-40d3-a15d-6f0a7fbdb2dd)](https://github.com/islammegdoude/magicpro) | [![Login](https://github.com/islammegdoude/magicpro/assets/78706966/cc5b8fe1-ae8e-4680-8eb6-804d717b4286)](https://github.com/islammegdoude/magicpro) | [![SignUp](https://github.com/islammegdoude/magicpro/assets/78706966/5dc89413-f386-41f8-b2f4-793b4115eb1d)](https://github.com/islammegdoude/magicpro) |
 | **Languages**                              | **Select Branch**                          | **Home**                                   |
 | [![Languages](https://github.com/islammegdoude/magicpro/assets/78706966/e12d8b36-829f-4072-b5ff-86b4c60439dc)](https://github.com/islammegdoude/magicpro) | [![Select Branch](https://github.com/islammegdoude/magicpro/assets/78706966/86a7c899-c00c-4c5c-9ceb-abae765ebfee)](https://github.com/islammegdoude/magicpro) | [![Home](https://github.com/islammegdoude/magicpro/assets/78706966/28018e51-d010-49ba-a0a3-bf3156ab76e4)](https://github.com/islammegdoude/magicpro) |
@@ -72,9 +72,8 @@
 
 ## Screenshots for Driver app :
 
-| Image 1                                    | Image 2                                    | Image 3                                    |
-|--------------------------------------------|--------------------------------------------|--------------------------------------------|
 | **SplashScreen**                           | **LoginScreen**                            | **Choose Language**                        |
+|--------------------------------------------|--------------------------------------------|--------------------------------------------|
 | [![SplashScreen](https://github.com/islammegdoude/magicpro/assets/78706966/250962c9-2ffa-4098-84f9-d8d588d981dd)](https://github.com/islammegdoude/magicpro) | [![LoginScreen](https://github.com/islammegdoude/magicpro/assets/78706966/45d361e7-f6c7-4739-b1de-0dc72993cd71)](https://github.com/islammegdoude/magicpro) | [![Choose Language](https://github.com/islammegdoude/magicpro/assets/78706966/a8f704d1-7d7a-4562-bfa5-c1786d7de3f2)](https://github.com/islammegdoude/magicpro) |
 | **Home**                                   | **Order Details**                          | **Chat with Customer**                      |
 | [![Home](https://github.com/islammegdoude/magicpro/assets/78706966/909333a6-cfe9-4063-abb2-2fbfacaf6a90)](https://github.com/islammegdoude/magicpro) | [![Order Details](https://github.com/islammegdoude/magicpro/assets/78706966/1cedbcfe-968e-4fdd-bb97-642354fef08b)](https://github.com/islammegdoude/magicpro) | [![Chat with Customer](https://github.com/islammegdoude/magicpro/assets/78706966/e28402e1-421f-44c4-9e47-9b00e1d0160b)](https://github.com/islammegdoude/magicpro) |
