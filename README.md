@@ -97,6 +97,10 @@
 - Rich Analytics & Reports
 - Restaurant business settings
 
+## Screenshot for Admin Panel:
+
+<img width="600" alt="AllOrders" src="https://github.com/islammegdoude/magicpro/assets/78706966/c45dde3a-f64c-4d44-a0d2-098983aa1b53">
+<img width="600" alt="Capture" src="https://github.com/islammegdoude/magicpro/assets/78706966/f65aae2b-7248-4bdd-a3dc-811751078ceb">
 
 
 #### 1. Why Choose Qudyan?
