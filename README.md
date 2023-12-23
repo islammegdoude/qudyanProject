@@ -102,6 +102,7 @@
 <img width="600" alt="AllOrders" src="https://github.com/islammegdoude/magicpro/assets/78706966/c45dde3a-f64c-4d44-a0d2-098983aa1b53">
 <img width="600" alt="Capture" src="https://github.com/islammegdoude/magicpro/assets/78706966/f65aae2b-7248-4bdd-a3dc-811751078ceb">
 
+## FAQ
 
 #### 1. Why Choose Qudyan?
 
@@ -116,32 +117,32 @@ Qudyan apps are developed using Flutter( Provider| getX ), a powerful and versat
 Qudyan Admin Panel and  backend is built by Laravel Framework, offering a robust and scalable server environment.
 
 
+## Tech Stack
+
+**Client:** Flutter( Provider | GetX)
+
+**Server:** Laravel, MyQql
+
+**Mailer:**  SMTP(Gmail)
+
+**Notifications:**  Firebase FCM
+
+**OTP:**  NetBeOpen Api 
+
+**Payment:** Chargily Api
+
+**Map:** Google Map Api 
 
 
+## Badges
 
-## Getting Started
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-### Installation
-
-1. Clone the repository.
-2. Follow the installation guide in the respective app folders (user, website, delivery man) and the admin panel to set up each component.
-
-### Usage
-
-- Refer to the documentation provided in each app folder and the admin panel for detailed instructions on usage.
-
-## Contribution
-
-We welcome contributions! If you have ideas or want to improve Qudyan, feel free to submit pull requests.
 
 ## Support
 
-For any queries, concerns, or assistance, please reach out to our support team. We're here to help you make the most out of Qudyan.
+For support, email islam.megdoude@gmail.com or contact me in my social media.
 
-## License
+## Authors
 
-This project is licensed under [LICENSE NAME] - [LICENSE LINK]. See the `LICENSE` file for details.
-
----
-
-Thank you for considering Qudyan for your restaurant management needs. We're committed to enhancing your experience and making your restaurant operations more efficient and productive.
+- [@islammegdoude](https://www.github.com/islammegdoude)
