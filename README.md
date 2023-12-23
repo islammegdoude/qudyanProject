@@ -2,20 +2,58 @@
 
 Qudyan is a comprehensive food delivery and restaurant management system designed to streamline your restaurant business operations. This repository contains the codebase for the user app, website, delivery man app, and a robust admin panel built using the Laravel Framework.
 
-## Features
+## User App Features
 
-- **Clean & Maintainable Code**: A well-structured codebase ensures easy maintenance and scalability.
-- **Elegant UI Design**: User-friendly interfaces for seamless navigation and engagement.
-- **LTR & RTL Support**: Accommodates both left-to-right and right-to-left languages.
-- **Multi-branch Support**: Manage multiple branches efficiently through a dedicated branch panel.
-- **Takeaway & Home Delivery**: Support for both takeaway and home delivery services.
-- **Delivery Coverage Area**: Define specific delivery zones for efficient logistics.
-- **Powerful Admin Panel**: A centralized dashboard to oversee the entire system and operations.
-- **Rich Analytics & Reports**: Access comprehensive analytics and generate insightful reports.
-- **Multiple Payment Gateways**: Integrate various payment methods for user convenience.
-- **Additional Features**: Chat functionality, coupon management, order tracking, reviews, push notifications, and more.
-- **High-Level Support**: Receive dedicated assistance and support for any inquiries or issues.
-- **Upcoming Features**: Expect even more functionalities in the upcoming versions.
+- Multi-branch supported
+- Coverage area
+- Take away & Home delivery
+- Splash & OnBoarding screen
+- Login and Registration with email & password
+- Password reset option using confirmation OTP
+- Multiple languages
+- LTR & RTL supported
+- Smart homepage with category, set menu, banner & latest items.
+- Promotional banner option with category or item redirection
+- Nice category and subcategory page
+- Search food item with search suggestions
+- Filter option in the search
+- Product wishlist
+- Cart screen with dynamic configurable payment method
+- Promo code system
+- Order list and details
+- Order tracking with live delivery man location
+- Save addresses for quick order
+- In-app chatting with the restaurant owner
+- Custom notification
+- User profile
+- Dark & Light theme for better user experience.
+
+## Delivery Man App Features
+
+- Splash & Login with email and password.
+- Active order list
+- Order details with Start delivery and Confirm delivery button
+- Delivery success screen with the receivable amount from the customer
+- Google map direction for customer delivery location
+- Delivered order history
+- Delivery man profile
+- LTR & RTL supported
+- Dark & Light theme
+
+## Admin Dashboard Features
+
+- Branch management
+- Order management
+- Food category & subcategory management
+- Food variation & addon management
+- Food item & set menu management
+- Chat with customer
+- Send custom notification 
+- Coupon management
+- Customer management
+- Delivery man management
+- Rich Analytics & Reports
+- Restaurant business settings
 
 ## Why Choose Qudyan?
 
